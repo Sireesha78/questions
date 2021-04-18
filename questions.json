@@ -1,0 +1,30 @@
+[
+    {
+        "question": "What is 43 + 22",
+        "a": "65",
+        "b": "1",
+        "c": "167",
+        "answer": "A"
+    },
+    {
+        "question": "What is 4 x 4?",
+        "a": "8",
+        "b": "52",
+        "c": "16",
+        "answer": "C"
+    },
+    {
+        "question": "What is 4 / 4?",
+        "a": "0",
+        "b": "1",
+        "c": "2",
+        "answer": "B"
+    },
+    {
+        "question": "What is 80 x 10?",
+        "a": "90",
+        "b": "800",
+        "c": "8000",
+        "answer": "B"
+    }
+]

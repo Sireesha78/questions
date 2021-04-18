@@ -1,0 +1,30 @@
+[
+    {
+        "question": "What is capital of Telangana",
+        "a": "Hyderabad",
+        "b": "Warangal",
+        "c": "Karimnagar",
+        "answer": "A"
+    },
+    {
+        "question": "Who won IPL 2020?",
+        "a": "Chennai",
+        "b": "Banglore",
+        "c": "Mumbai",
+        "answer": "C"
+    },
+    {
+        "question": "When did India won the last world cup?",
+        "a": "2019",
+        "b": "2011",
+        "c": "2016",
+        "answer": "B"
+    },
+    {
+        "question": "Where did corona originated from?",
+        "a": "China",
+        "b": "USA",
+        "c": "India",
+        "answer": "A"
+    }
+]
